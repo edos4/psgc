@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.description   = "Collection of Philippine Regions, Provinces, Cities "\
                        "and Municipalities Based on "\
                        "PSGC(Philippine Standard Geographic Code)"
-  spec.homepage      = "Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/redjoker011/psgc"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
